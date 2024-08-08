@@ -7,7 +7,8 @@
     <title>Document</title>
     <style>
             td{
-                border: 1px solid black;
+                border: 2px solid green;
+                width: 100px;
             }
     </style>
 </head>
